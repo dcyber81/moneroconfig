@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": true,
+    "cuda": true,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": null,
+            "url": "xmr.pool.minergate.com:45700",
+            "user": "42ddb6CyyCYTGNrj8L5uUCbVsr9pfWbZCUDANkebQqzYbqJyiMKLcEJdozoDK7vebqE7omVLtB6Xz63Ty8QqsLZSJaJ1jJu",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
